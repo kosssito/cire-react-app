@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "titulo": "Tradicion y sabor",
+    "parrafo": "Hacer Mole es nustra pasion. Orgullosamente Mole Tadicional Oaxaqueño."
+  },
+  "Nosotros": {
+    "parrafo": "Somos un negocio familar tijuanense con origines Oaxaqueños. Nos dedicamos a fabricar mole en pasta al estilo tradicional Oaxaqueño con ingredientes 100% naturales.",
+    "Porque": [
+      "Ingredites 100% naturales",
+      "Sabor unico",
+      "Reseta Tradicional",
+      "Esta delicioso"
+    ],
+    "Porque2": [
+      "Producto novedoso al mercado",
+      "Practico",
+      "Listo para usar",
+      "Sin conservador"
+    ]
+  },
+  "Galeria": [
+    {
+      "title": "Mole Tradicional",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Algunos Ingredientes",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Palacio Municipal Inmujer Emprededora",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Testimonios": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"El mole de doña Cire, es una receta única y exquisita, sin duda alguna se pueden lograr grandes y deliciosos platillos.\"",
+      "name": "Martha Alvarez"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"He probado el mole doña cire, esta super delicioso, la textura esta muy exelente y desde la primera vez que lo probe me encanto\"",
+      "name": "Perla Cristal"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Me encanta el mole de doña Cire, es único y exquisito. Con el se pueden lograr hacer diferentes comidas súper ricas.\"",
+      "name": "Falta Nombre"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Productos": [
+    {
+      "img": "imagen de 250 g",
+      "name": "Mole en pasta Sabor tradicional 250g",
+      "text": "Presentacion ideal para un antojo facil y practico."
+    },
+    {
+      "img": "imagen de 500g",
+      "name": "Mole en pasta Sabor tradicional 500g",
+      "text": "presentacion de 500g de nuestro mole para comer una familia completa."
+    },
+    {
+      "img": "img/premiun.jpg",
+      "name": "Mole en pasta Sabor tradicional 500g Premium",
+      "text": "Muestro sabor de siempre envasado en envace al alto vacio en frasco de vidrio."
+    }
+   
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Redes": [
+    {
+      "icon": "fa fa-facebook-square"
+  
+    },
+    {
+      "icon": "fa fa-bullhorn"
+    },
+    {
+      "icon": "fa fa-group"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Preguntas":[
+    {
+      "pregutna1": "¿esta es la pregunta 1",
+      "respuesta1": "esta es la respuesta1"
+    },
+    {
+      "pregutna2": "¿esta es la pregunta 2",
+      "respuesta2": "esta es la respuesta2"
+    },
+    {
+      "pregutna3": "¿esta es la pregunta 3",
+      "respuesta3": "esta es la respuesta3"
+    }
+  ]
+}
