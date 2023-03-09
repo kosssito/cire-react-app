@@ -271,7 +271,7 @@ header .intro-text {
 .acordeon .etiqueta {
   position: relative;
   padding: 10px 0;
-  font-size: 30px;
+  font-size: 18px;
   color: black;
   cursor: pointer;
 }
@@ -294,9 +294,9 @@ header .intro-text {
   position: relative;
   background: white;
   height: 0;
-  font-size: 20px;
+  font-size: 15px;
   text-align: justify;
-  width: 780px;
+  
   overflow: hidden;
   transition: 0.5s;
 }
@@ -373,7 +373,7 @@ header .intro-text {
   padding-right: 8px;
 }
 #nosotros img {
-  width: 520px;
+  width: 100%;
   margin-top: 10px;
   background: #fff;
   border-right: 0;
@@ -583,6 +583,13 @@ border-radius: 5px;
 
   .intro p {
     font-size: 15px;
+  }
+  
+  #nosotros{
+    width: 100%  !important;
+  }
+  .hover-bg .hover-text {
+    width: auto;
   }
 }
 
