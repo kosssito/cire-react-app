@@ -313,7 +313,7 @@ header .intro-text {
 /* Muestra la parte de contenido cuando está activa. Establece la altura */
 
 .acordeon .contenedor.activa .contenido {
-  height: 50px;
+  height: 80px;
 }
 
 /* Cambia de signo positivo a negativo una vez activado */
@@ -574,6 +574,9 @@ border-radius: 5px;
     font-size: 15px;
   }
   
+  #productos{
+    width: 100%  !important;
+  }
   #nosotros{
     width: 100%  !important;
   }
