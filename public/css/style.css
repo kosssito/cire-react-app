@@ -303,17 +303,17 @@ header .intro-text {
 
 /* Añade una línea horizontal entre los contenidos */
 
-/* .acordeon hr {
-  width: 100;
+.acordeon hr {
+  width: 100%;
   margin-left: 0;
   border: 1px solid grey;
-} */
+}
 
 
 /* Muestra la parte de contenido cuando está activa. Establece la altura */
 
 .acordeon .contenedor.activa .contenido {
-  height: 80px;
+  height: 50px;
 }
 
 /* Cambia de signo positivo a negativo una vez activado */

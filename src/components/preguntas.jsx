@@ -35,25 +35,25 @@ const handleClick = (e)=>{
          
           <hr className="largo"/>
           <div  className={active.a1}  onClick={handleClick} >
-              <div id="a1"  className="etiqueta" >¿Donde nos ubicamos?</div>
+              <div id="a1"  className="etiqueta" >¿Qué sabor tiene su mole?</div>
               <div className="contenido"  >
-              Nuestro punto de venta se encuentra en un puesto de pollos  en infonavid presidentes, en la gloriera en tijuana, Baja California. en los horarios de .... ..... ...
+              Es un mole negro poco dulce con un toque de amargo y no es picoso. Al mero estilo oxaqueño con ingredientes 100% naturales.
               </div>
           </div>
 
           <hr className="largo"/>
           <div className={active.a2}  onClick={handleClick} >
-              <div id="a2" className="etiqueta">¿Que presentaciones de su producto manejan?</div>
+              <div id="a2" className="etiqueta">¿Como se prepara?</div>
               <div className="contenido">
-              Actualmente contantamos con 2 presentaciones de nuestro producto, 250 gramos y 500 gramos de nuestro rico y delisioso Mole Tradicional DOÑA CIRE
+              Este mole esta listo para agregarle el caldo de pollo, y esta listo para cervirse.
               </div>
           </div>
 
           <hr className="largo"/>
           <div className={active.a3}  onClick={handleClick} >
-              <div id="a3" className="etiqueta">¿Que hace distinto a su producto?</div>
+              <div id="a3" className="etiqueta">¿Se puede hacer mas dulce o picoso el mole?</div>
               <div className="contenido">
-              Nuestro producto es una reseta artesanal, pasado de generacion en generacion, al estilo Oaxaqueño, usando productos 100% naturales y sin conservadores.
+              Para hacer mas dulce el mole agrregue chocolate en barra o azucar, y si quiere mas picoso, agragar chile de arbol, frito y molido.
               </div>
           </div>
 
