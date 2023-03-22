@@ -309,23 +309,11 @@ header .intro-text {
   border: 1px solid grey;
 } */
 
-/* Muestra la parte de contenido cuando está activa. Establece la altura */
-
-.acordeon .contenedor.activa .contenido {
-  height: 150px;
-}
-
-/* Cambia de signo positivo a negativo una vez activado */
-
-.acordeon .contenedor.activa .etiqueta::before {
-  content: '-';
-  font-size: 30px;
-}
 
 /* Muestra la parte de contenido cuando está activa. Establece la altura */
 
 .acordeon .contenedor.activa .contenido {
-  height: 150px;
+  height: 80px;
 }
 
 /* Cambia de signo positivo a negativo una vez activado */

@@ -68,45 +68,45 @@
   "Testimonios": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"El mole de doña Cire, es una receta única y exquisita, sin duda alguna se pueden lograr grandes y deliciosos platillos.\"",
+      "text": "\"El mole de DOÑA CIRE, es una receta única y exquisita, sin duda alguna se pueden lograr grandes y deliciosos platillos.\"",
       "name": "Martha Alvarez"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"He probado el mole doña cire, esta super delicioso, la textura esta muy exelente y desde la primera vez que lo probe me encanto\"",
+      "text": "\"He probado el mole DOÑA CIRE, está superdelicioso, la textura está muy excelente y desde la primera vez que lo probé me encanto.\"",
       "name": "Perla Cristal"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Me encanta el mole de doña Cire, es único y exquisito. Con el se pueden lograr hacer diferentes comidas súper ricas.\"",
-      "name": "Falta Nombre"
+      "text": "\"Me encanta el mole de DOÑA CIRE, es único y exquisito. Con él se pueden lograr hacer diferentes comidas superricas.\"",
+      "name": "Daisy "
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"El mole DOÑA CIRE es una receta única, exquisito. Lo que más me gusta, es que está hecho con productos naturales, orgánicos de alta calidad y sobre todo muy rendidor, con el que puedes hacer diferentes platillos.\"",
+      "name": "Letty Ruiz"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Cuando probé el mole DOÑA CIRE que de sorprendida de sus sabores únicos, fue una experiencia muy deliciosa y me encanto. Lo recomiendo porque es fácil de usar y sabe muy bien.\"",
+      "name": "Ceci"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Cuando probé el mole DOÑA CIRE, aparte de delicioso, no me irritaba el estómago, pues siempre que probara mole me irritaba, pero con este producto quede fascinado por su sabor.\"",
+      "name": "Pedro Laredo"
     }
   ],
   "Productos": [
     {
-      "img": "imagen de 250 g",
+      "img": "img/tradicional250.jpg",
       "name": "Mole en pasta Sabor tradicional 250g",
       "text": "Presentacion ideal para un antojo facil y practico."
     },
     {
-      "img": "imagen de 500g",
+      "img": "img/tradicional500.jpg",
       "name": "Mole en pasta Sabor tradicional 500g",
-      "text": "presentacion de 500g de nuestro mole para comer una familia completa."
+      "text": "Presentacion de 500g de nuestro mole para comer una familia completa."
     },
     {
       "img": "img/premiun.jpg",
