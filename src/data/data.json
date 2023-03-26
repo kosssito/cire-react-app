@@ -40,7 +40,7 @@
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Expo",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
@@ -112,6 +112,28 @@
       "img": "img/premiun.jpg",
       "name": "Mole en pasta Sabor tradicional 500g Premium",
       "text": "Nuestro sabor de siempre envasado en envace al alto vacio en frasco de vidrio."
+    }
+  ],
+  "Preguntas":[
+    {
+      "pregunta": "¿Qué sabor tiene su mole?" ,
+      "respuesta": "Es un mole negro con un sabor balanceado, poco dulce, con un toque de amargo y no picoso. Al mero estilo oaxaqueño con ingredientes 100% naturales."
+    },
+    {
+      "pregunta": "¿Como se prepara?" ,
+      "respuesta": " A 500 g de mole DOÑA CIRE agregué 400 ml de caldo de pollo, asta que el mole quede disuelto uniformemente y está listo para servir."
+    },
+    {
+      "pregunta": "¿Se puede hacer mas dulce o picoso el mole?" ,
+      "respuesta": "Para hacer más dulce el mole, agregué chocolate en barra o azúcar cuando está disolviendo el mole en el caldo de pollo. Si quiere más picoso, freír chile de árbol, luego muela en la licuadora y agregue al mole para darle ese toque picoso al gusto."
+    },
+    {
+      "pregunta": "¿Cuanto rinde su mole?" ,
+      "respuesta": "Para nuestra presentación de 500 g, rinde 1200 ml de mole. Suficiente para comer 4 personas."
+    },
+    {
+      "pregunta": "¿Entregan a domicilio?" ,
+      "respuesta": "Despues de 5 Kg entregamos a domicilio en tijuana, Baja California."
     }
   ]
 }
