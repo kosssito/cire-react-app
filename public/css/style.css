@@ -313,7 +313,7 @@ header .intro-text {
 /* Muestra la parte de contenido cuando está activa. Establece la altura */
 
 .acordeon .contenedor.activa .contenido {
-  height: 80px;
+  height: 50px;
 }
 
 /* Cambia de signo positivo a negativo una vez activado */
@@ -560,9 +560,18 @@ border-radius: 5px;
   border-bottom: 2px solid #608dfd;
 }
 
+@media (max-width: 1000px) {
+  
+  .acordeon .contenedor.activa .contenido {
+    height: 75px;
+  }
+}
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+  }
+  .acordeon .contenedor.activa .contenido {
+    height: 100px;
   }
 }
 @media (max-width: 600px) {
@@ -574,7 +583,17 @@ border-radius: 5px;
     font-size: 15px;
   }
 }
+
+@media (max-width: 484px) {
+  
+  .acordeon .contenedor.activa .contenido {
+    height: 125px;
+  }
+}
 @media (max-width: 412px) {
+  .acordeon .contenedor.activa .contenido {
+    height: 150px;
+  }
   .intro h1 {
     font-size: 30px;
   }
